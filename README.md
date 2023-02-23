@@ -1,13 +1,5 @@
 <Html>
 
- <ul>
-  <li><a href="http://bibliotca.herokuapp.com/">Home</a></li>
-  
- 
-  
-</ul>
-
-  <h5>online-library-management-system-</h5>
                   <img src="https://user-images.githubusercontent.com/73921592/132159471-8076200c-a23d-495d-9275-ca7fa244b760.jpg" align="right" ><br>
   <h1 color="blue">open source library management system</h1><h6> developed by SLIIT student </h6><br>
   <h5>Splash Screen</h5><br/>
