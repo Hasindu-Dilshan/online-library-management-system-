@@ -1,7 +1,7 @@
 <?php   //get login details
     session_start();
     if(isset($_SESSION['logged_user'])) {
-        $username= $_SESSION['logged_user'] ;
+        $username = $_SESSION['logged_user'] ;
     }
 
  ?>

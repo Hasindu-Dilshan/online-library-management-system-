@@ -25,7 +25,7 @@ background: rgba(255, 255, 255, 1.0);
   padding: 8px 8px 8px 25px;
   text-decoration: none;
   font-size: 25px;
-  color: #231f3e;
+  color: #fff;
   display: block;
   transition: 0.3s;
 }
@@ -85,7 +85,7 @@ background: rgba(255, 255, 255, 1.0);
  
 }
 
- .sidenav  .gest  {
+ .sidenav  .sidenav-heading  {
   
   background-color: #232f3e;
   display: flex;
@@ -190,12 +190,17 @@ background: rgba(255, 255, 255, 1.0);
 .rating {
   unicode-bidi: bidi-override;
   direction: rtl;
-  text-align: center;
+  text-align: left;
+  /* text-align: center; */
+  font-size: 18px;
+  color: #fff;
+  margin-left: 25px;
 }
 .rating > span {
   display: inline-block;
   position: relative;
   width: 1.1em;
+  margin: 8px 8px 8px 0px;
 }
 .rating > span:hover,
 .rating > span:hover ~ span {

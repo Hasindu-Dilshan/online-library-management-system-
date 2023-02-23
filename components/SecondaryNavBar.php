@@ -1,5 +1,4 @@
 <?php
-    require_once $_SERVER['DOCUMENT_ROOT'] . "library-management-system/config.php";
 
     /* Manage Level-1 */
     $level_1 = '';

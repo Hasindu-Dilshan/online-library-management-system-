@@ -1,8 +1,8 @@
 <?php 
-    include("components/Header.php");
-    $ftab="";
-
     require_once("config.php"); // include database connection
+    include("components/Header.php");
+    
+    $ftab="";
 
     /* get books one-by-one */
     

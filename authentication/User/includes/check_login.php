@@ -17,7 +17,7 @@
 			// setcookie('logged_user', $email, time() + $month_seconds, httponly: true);
 			$_SESSION['logged_user'] = $email;
 
-			header("Location:/library-management-system/index.php");
+			header("Location:/online-library-management-system-/index.php");
 		}
 		else{
 			echo "<h3>Incorrect Email/Password</h3>";
