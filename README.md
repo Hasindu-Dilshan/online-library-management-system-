@@ -1,7 +1,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73921592/132159471-8076200c-a23d-495d-9275-ca7fa244b760.jpg" align="right" ><br>
-<h1 color="blue">open source library management system</h1><h6> developed by SLIIT student </h6><br>
+<h1 color="blue">open source library management system</h1><h6>Designed and developed by SLIIT students</h6><br>
 <h5>Splash Screen</h5><br/>
 <img src="https://user-images.githubusercontent.com/73921592/132158366-e20650c6-d0b5-471f-978b-77b8e166a2cf.png">
 <h5>Request Screen</h5><br>
