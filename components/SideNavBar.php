@@ -46,13 +46,17 @@
             }
         ?>
 
-        <div class="empty-space" style="height: 15vh;"></div>
+        <!-- <div class="empty-space" style="height: 15vh;"></div> -->
 
-        <a href="#">📩 Feedback</a>
-        <a href="#">👑 Rate Us</a>
+        <div style="position: relative; top: 10vh;">
 
-        <div class="rating" style="">
-            <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+            <a href="#">📩 Feedback</a>
+            <a href="#">👑 Rate Us</a>
+
+            <div class="rating" style="">
+                <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+            </div>
+
         </div>
          
     </div>
